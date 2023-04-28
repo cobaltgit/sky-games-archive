@@ -33,7 +33,7 @@ More games will be added to this non-exhaustive list as they go live
 [SpongeBob SquarePants: Bikini Bottom in Bother](/games/spongebob-bbb)|Yes|
 [Star Trek: The Next Generation](/games/star-trek-tng)|Yes|Game crashes upon completion|
 [Tetris](/games/tetris)|Yes|[Pausing and selecting the 'continue' option during the intro jingle subsequently will take you to the main menu rather than resuming the game](/assets/video/tetris-bug.webm)
-[Tom and Jerry in Mouse Party](/games/tj-mouse-party)|Yes|Wrong music and sound effects
+[Tom and Jerry in Mouse Party](/games/tj-mouse-party)|Yes|[Wrong music and sound effects](https://www.youtube.com/watch?v=KWhWNucRWHI)
 [All Grown Up: Confiscated Cards](/games/all-grown-up)|Unknown|
 [Caterpillar Crunch](/games/caterpillar)|Unknown|Sound effects overlap with music|
 [Dexter's Laboratory: Dexter vs. Mandark](/games/dexter-vs-mandark)|Unknown|
