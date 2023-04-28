@@ -22,16 +22,17 @@ More games will be added to this non-exhaustive list as they go live
 |----|-----------|----------|----------|
 [Codename: Kids Next Door - Operation B.I.T.T.E.R.S.W.E.E.T](/games/knd-bittersweet)|Yes|Game crashes upon completion|
 [Courage the Cowardly Dog in Katz Kidnap](/games/courage-katz-kidnap)|Yes|Some doors may render as invisible|
+[Ed, Ed n Eddy: Night of the Living Ed](/games/eee-night-of-living-ed)|Yes|Sound effects do not work|
 [Hulk](/games/hulk)|Yes|
 [Looney Tunes: Back in Action](/games/lt-bia)|Yes|
 [Robotboy: Tag Team Trouble](/games/robotboy-ttt)|Yes|
 [SpongeBob SquarePants: Bikini Bottom in Bother](/games/spongebob-bbb)|Yes|
 [Star Trek: The Next Generation](/games/star-trek-tng)|Yes|Game crashes upon completion|
 [Tetris](/games/tetris)|Yes|[Pausing and selecting the 'continue' option during the intro jingle subsequently will take you to the main menu rather than resuming the game](/assets/video/tetris-bug.webm)
+[Tom and Jerry in Mouse Party](/games/tj-mouse-party)|Yes|Wrong music and sound effects
 [All Grown Up: Confiscated Cards](/games/all-grown-up)|Unknown|
 [Caterpillar Crunch](/games/caterpillar)|Unknown|Sound effects overlap with music|
 [Dexter's Laboratory: Dexter vs. Mandark](/games/dexter-vs-mandark)|Unknown|
-[Ed, Ed n Eddy: Night of the Living Ed](/games/eee-night-of-living-ed)|Unknown|Sound effects do not work|
 [Scooby Doo Mysteries: The Case of the Creepy Cowboy](/games/scooby-creepy-cowboy)|Unknown|
 [Scooby Doo: Where are You in "The Mystery of Eerie Isle"](/games/scooby-eerie-isle)|Unknown|
 [Scooby Doo: Where are You in "Tomb it May Concern"](/games/scooby-tomb)|Unknown|
@@ -39,7 +40,6 @@ More games will be added to this non-exhaustive list as they go live
 [The Grim Adventures of Billy and Mandy](/games/billy-mandy)|Unknown|
 [Thunderbirds](/games/thunderbirds)|Unknown|Some background files are missing|
 [Tom and Jerry in Dynamice](/games/tj-dynamice)|Unknown|No music<br>Retry menu does not disappear after game over
-[Tom and Jerry in Mouse Party](/games/tj-mouse-party)|Unknown|Wrong music and sound effects
 [Duopolis](/games/duopolis)|Endless|Quitting a game to return to the main menu causes a crash|
 [Jumble Fever](/games/jumble-fever)|Endless|
 [Letter Box](/games/letterbox)|Endless|
