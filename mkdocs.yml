@@ -16,7 +16,7 @@ extra:
     - icon: fontawesome/brands/discord 
       link: https://denki.co.uk/sky/Discord.png
     - icon: fontawesome/brands/github
-      link: https://github.com/cobaltgit/skygames-restored
+      link: https://github.com/cobaltgit/sky-games-restored
 markdown_extensions:
   - admonition
   - pymdownx.details
