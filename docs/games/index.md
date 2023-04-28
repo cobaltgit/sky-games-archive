@@ -6,17 +6,17 @@ comments: true
 
 This is a list of playable games as well as their completability status and any bugs  
 
-Controls for all games are as follows:
+Button mappings for all games are as follows:
 
 - Arrow buttons - Arrow keys/IJKL
 - Select - Enter/Space
 - Back up - Backspace
 - Colour buttons:
-    <div style="display: table;">
-        <p style="display: table-cell; color: tomato">Q</p>
-        <p style="display: table-cell; color: lime">W</p>
-        <p style="display: table-cell; color: yellow">E</p>
-        <p style="display: table-cell; color: #41A4FF">R</p>
+    <div style="line-height: 1em;">
+        <p style="color: tomato">Red - Q</p>
+        <p style="color: lime">Green - W</p>
+        <p style="color: yellow">Yellow - E</p>
+        <p style="color: #41A4FF">Blue - R</p>
     </div>
 - Help - T
 
