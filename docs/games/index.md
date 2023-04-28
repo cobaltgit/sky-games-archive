@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Playable Games
 
 This is a list of playable games as well as their completability status and any bugs  

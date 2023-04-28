@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Caterpillar Crunch
 
 <div style="background-color: #595959; padding-bottom: 2px; padding-top: 7px; padding-left: 10px; padding-right: 10px; margin-bottom: 5px; margin-top: 7px; border-radius: 4px">
