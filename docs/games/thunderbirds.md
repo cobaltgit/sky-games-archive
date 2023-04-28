@@ -12,10 +12,12 @@ Released in 2004 by Denki
 
 <a href="https://denki.co.uk/sky/tbirds/app.html"><img src="/assets/img/tbirds-menu.jpg" width="60%" style="float: right; padding-left: 64px"></a>
 
-The incredible Tracy family, secretly known as International Rescue, blast into action from their secret base!
+<blockquote>
+    <p>The incredible Tracy family, secretly known as International Rescue, blast into action from their secret base!</p>
 
-In the past month the number of serious accidents around the world has increased significantly. International Rescue is under immense strain to meet demand and is adopting a surreptitious recruitment policy in an attempt to increase its effectiveness
+    <p>In the past month the number of serious accidents around the world has increased significantly. International Rescue is under immense strain to meet demand and is adopting a surreptitious recruitment policy in an attempt to increase its effectiveness</p>
 
-Unbeknown to our heroic troupe, the evil Hood is responsible for the mayhem. He's creating havoc to attract the attention of International Rescue with a view to finding out more about their incredible Vehicles before ultimately capturing them to use for his own nefarious means.
+    <p>Unbeknown to our heroic troupe, the evil Hood is responsible for the mayhem. He's creating havoc to attract the attention of International Rescue with a view to finding out more about their incredible Vehicles before ultimately capturing them to use for his own nefarious means.</p>
+</blockquote>
 
 Click the menu screen to help International Rescue stop the Hood in his tracks!
