@@ -35,11 +35,11 @@ More games will be added to this non-exhaustive list as they go live
 [Star Trek: The Next Generation](/games/star-trek-tng)|Yes|
 [Tetris](/games/tetris)|Yes|[Pausing and selecting the 'continue' option during the intro jingle subsequently will take you to the main menu rather than resuming the game](/assets/video/tetris-bug.webm)
 [Tom and Jerry in Mouse Party](/games/tj-mouse-party)|Yes|[Wrong music and sound effects](https://www.youtube.com/watch?v=KWhWNucRWHI)
+[Foster's Home for Imaginary Friends: Tick Tock Terror](/games/foster-ttt)|No|[The game turns mostly dark when entering a portal](https://cdn.discordapp.com/attachments/1098329726126411856/1101901829320736868/image.png)
 [All Grown Up: Confiscated Cards](/games/all-grown-up)|Unknown|
 [Caterpillar Crunch](/games/caterpillar)|Unknown|Sound effects overlap with music|
 [Denki Blocks!](/games/denki-blocks)|Unknown|
 [Dexter's Laboratory: Dexter vs. Mandark](/games/dexter-vs-mandark)|Unknown|
-[Foster's Home for Imaginary Friends: Tick Tock Terror](/games/foster-ttt)|Unknown|
 [Scooby Doo Mysteries: The Case of the Creepy Cowboy](/games/scooby-creepy-cowboy)|Unknown|
 [Scooby Doo: Where are You in "The Mystery of Eerie Isle"](/games/scooby-eerie-isle)|Unknown|
 [Scooby Doo: Where are You in "Tomb it May Concern"](/games/scooby-tomb)|Unknown|
