@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# Codename: Kids Next Door - Operation B.I.T.T.E.R.S.W.E.E.T
+# Codename: Kids Next Door - Operation B.I.T.T.E.R.S.W.E.E.T.
 
 <div style="background-color: #595959; padding-bottom: 2px; padding-top: 7px; padding-left: 10px; padding-right: 10px; margin-bottom: 5px; margin-top: 7px; border-radius: 4px">
 <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/996817759&amp;color=000000&amp;inverse=true&amp;auto_play=true&amp;show_user=false"></iframe>

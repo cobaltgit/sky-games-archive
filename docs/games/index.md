@@ -24,7 +24,7 @@ More games will be added to this non-exhaustive list as they go live
 
 |Game|Completable|Major bugs|Minor bugs|
 |----|-----------|----------|----------|
-[Codename: Kids Next Door - Operation B.I.T.T.E.R.S.W.E.E.T](/games/knd-bittersweet)|Yes|
+[Codename: Kids Next Door - Operation B.I.T.T.E.R.S.W.E.E.T.](/games/knd-bittersweet)|Yes|
 [Courage the Cowardly Dog in Katz Kidnap](/games/courage-katz-kidnap)|Yes|Some doors may render as invisible|
 [Ed, Edd n Eddy: Night of the Living Ed](/games/eee-night-of-living-ed)|Yes|Sound effects do not work|
 [Hulk](/games/hulk)|Yes|
