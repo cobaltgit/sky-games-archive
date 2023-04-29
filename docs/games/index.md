@@ -29,6 +29,7 @@ More games will be added to this non-exhaustive list as they go live
 [Ed, Ed n Eddy: Night of the Living Ed](/games/eee-night-of-living-ed)|Yes|Sound effects do not work|
 [Hulk](/games/hulk)|Yes|
 [Looney Tunes: Back in Action](/games/lt-bia)|Yes|
+[Number Crunch](/games/number-crunch)|Yes|
 [Robotboy: Tag Team Trouble](/games/robotboy-ttt)|Yes|
 [SpongeBob SquarePants: Bikini Bottom in Bother](/games/spongebob-bbb)|Yes|
 [Star Trek: The Next Generation](/games/star-trek-tng)|Yes|Game crashes upon completion|
@@ -38,6 +39,7 @@ More games will be added to this non-exhaustive list as they go live
 [Caterpillar Crunch](/games/caterpillar)|Unknown|Sound effects overlap with music|
 [Denki Blocks!](/games/denki-blocks)|Unknown|
 [Dexter's Laboratory: Dexter vs. Mandark](/games/dexter-vs-mandark)|Unknown|
+[Foster's Home for Imaginary Friends: Tick Tock Terror](/games/foster-ttt)|Unknown|
 [Scooby Doo Mysteries: The Case of the Creepy Cowboy](/games/scooby-creepy-cowboy)|Unknown|
 [Scooby Doo: Where are You in "The Mystery of Eerie Isle"](/games/scooby-eerie-isle)|Unknown|
 [Scooby Doo: Where are You in "Tomb it May Concern"](/games/scooby-tomb)|Unknown|
