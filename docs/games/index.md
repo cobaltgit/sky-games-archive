@@ -40,6 +40,7 @@ More games will be added to this non-exhaustive list as they go live
 [Caterpillar Crunch](/games/caterpillar)|Unknown|Sound effects overlap with music|
 [Denki Blocks!](/games/denki-blocks)|Unknown|
 [Dexter's Laboratory: Dexter vs. Mandark](/games/dexter-vs-mandark)|Unknown|
+[Genie's Cave](/games/genies-cave)|Unknown|
 [Scooby Doo Mysteries: The Case of the Creepy Cowboy](/games/scooby-creepy-cowboy)|Unknown|
 [Scooby Doo: Where are You in "The Mystery of Eerie Isle"](/games/scooby-eerie-isle)|Unknown|
 [Scooby Doo: Where are You in "Tomb it May Concern"](/games/scooby-tomb)|Unknown|
