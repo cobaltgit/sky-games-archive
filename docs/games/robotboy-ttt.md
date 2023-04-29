@@ -8,7 +8,7 @@ comments: true
 <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/993427612&amp;color=000000&amp;inverse=true&amp;auto_play=true&amp;show_user=false"></iframe>
 </div>
 
-The fourth and final Robotboy game by Denki, released in late 2007. Based on the British-French Cartoon Network series of the same name
+The fourth and final Robotboy game by Denki, released in mid 2008. Based on the British-French Cartoon Network series of the same name
 
 <a href="https://denki.co.uk/sky/robotboy/app.html"><img src="/assets/img/robotboy-ttt-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
