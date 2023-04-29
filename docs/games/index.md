@@ -24,15 +24,15 @@ More games will be added to this non-exhaustive list as they go live
 
 |Game|Completable|Major bugs|Minor bugs|
 |----|-----------|----------|----------|
-[Codename: Kids Next Door - Operation B.I.T.T.E.R.S.W.E.E.T](/games/knd-bittersweet)|Yes|Game crashes upon completion|
+[Codename: Kids Next Door - Operation B.I.T.T.E.R.S.W.E.E.T](/games/knd-bittersweet)|Yes|
 [Courage the Cowardly Dog in Katz Kidnap](/games/courage-katz-kidnap)|Yes|Some doors may render as invisible|
 [Ed, Edd n Eddy: Night of the Living Ed](/games/eee-night-of-living-ed)|Yes|Sound effects do not work|
 [Hulk](/games/hulk)|Yes|
 [Looney Tunes: Back in Action](/games/lt-bia)|Yes|
-[Number Crunch](/games/number-crunch)|Yes|
-[Robotboy: Tag Team Trouble](/games/robotboy-ttt)|Yes|
+[Number Crunch](/games/number-crunch)|Yes|[The help section shows the terms and conditions for *Who Wants to be a Millionaire*](/assets/img/nc-terms.jpg)
+[Robotboy: Tag Team Trouble](/games/robotboy-ttt)|Yes|Menu after game over screen does not work
 [SpongeBob SquarePants: Bikini Bottom in Bother](/games/spongebob-bbb)|Yes|
-[Star Trek: The Next Generation](/games/star-trek-tng)|Yes|Game crashes upon completion|
+[Star Trek: The Next Generation](/games/star-trek-tng)|Yes|
 [Tetris](/games/tetris)|Yes|[Pausing and selecting the 'continue' option during the intro jingle subsequently will take you to the main menu rather than resuming the game](/assets/video/tetris-bug.webm)
 [Tom and Jerry in Mouse Party](/games/tj-mouse-party)|Yes|[Wrong music and sound effects](https://www.youtube.com/watch?v=KWhWNucRWHI)
 [All Grown Up: Confiscated Cards](/games/all-grown-up)|Unknown|
