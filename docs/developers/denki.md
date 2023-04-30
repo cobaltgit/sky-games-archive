@@ -30,7 +30,7 @@ Bips!|2004-02-12|No|
 [Tom and Jerry in "Mouse Party"](/games/tj-mouse-party)|2004-05-06|Yes|
 Courage the Cowardly Dog in Le Quack Attack|2004-09-09|No|
 Courage the Cowardly Dog in Katz Komeback|2004-07-08|No|
-[Scooby Doo: Where are You in "The Mystery of Eerie Isle"](/games/scooby-eerie-isle)|Yes|
+[Scooby Doo: Where are You in "The Mystery of Eerie Isle"](/games/scooby-eerie-isle)|2004-09-16|Yes|
 [Thunderbirds: Flashpoint Earth](/games/thunderbirds)|2004-10-14|Yes
 [Genie's Cave](/games/genies-cave)|2004-12-02|Yes|
 Tom and Jerry in "Merry Christmouse"|2004-12-16|No|
