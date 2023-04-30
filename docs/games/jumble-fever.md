@@ -11,7 +11,7 @@ comments: true
 "Candy Crush before Candy Crush"  
 A tile-matching puzzle game released by Denki in 2005
 
-<a href="https://denki.co.uk/sky/jf/app.html"><img src="/assets/img/jumble-fever-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/jf/app.html"><img src="/assets/img/menus/jumble-fever-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
 * Match three or more coloured fruit in a vertical or horizontal line to score points
 * Match four or five fruits to obtain the Time and Bomb Tokens, which add extra time and clear surrounding fruit respectively

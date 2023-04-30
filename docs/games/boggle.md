@@ -10,7 +10,7 @@ comments: true
 
 Denki brings Parker Brothers' classic dice word game to Sky Gamestar! Released in 2005.
 
-<a href="https://denki.co.uk/sky/boggle/app.html"><img src="/assets/img/boggle-menu.jpg" width="60%" style="float: right; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/boggle/app.html"><img src="/assets/img/menus/boggle-menu.jpg" width="60%" style="float: right; padding-left: 64px"></a>
 
 Make as many words as possible using the 4x4 grid of provided letters within the time limit!   
 

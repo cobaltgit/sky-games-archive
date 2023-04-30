@@ -10,7 +10,7 @@ comments: true
 
 A flip-screen platformer game based on the Nickelodeon TV series of worldwide acclaim, released in 2006 by Denki!
 
-<a href="https://denki.co.uk/sky/sb/app.html"><img src="/assets/img/sb-bbb-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/sb/app.html"><img src="/assets/img/menus/sb-bbb-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
 Help SpongeBob stop Plankton in his diabolical plan to bring down the Krusty Krab by framing Mr. Krabs for the theft of King Neptune's Crown, leading to Krabs' execution by Neptune himself!
 

@@ -10,7 +10,7 @@ comments: true
 
 The first in a trilogy of games based on the eponymous film, first released in 2003 by Denki
 
-<a href="https://denki.co.uk/sky/lt/app.html"><img src="/assets/img/lt-bia-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/lt/app.html"><img src="/assets/img/menus/lt-bia-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
 <blockquote>
     <p>The unthinkable has happened</p>

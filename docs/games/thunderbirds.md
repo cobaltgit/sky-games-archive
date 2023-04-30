@@ -10,7 +10,7 @@ comments: true
 
 Released in 2004 by Denki
 
-<a href="https://denki.co.uk/sky/tbirds/app.html"><img src="/assets/img/tbirds-menu.jpg" width="60%" style="float: right; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/tbirds/app.html"><img src="/assets/img/menus/tbirds-menu.jpg" width="60%" style="float: right; padding-left: 64px"></a>
 
 <blockquote>
     <p>The incredible Tracy family, secretly known as International Rescue, blast into action from their secret base!</p>

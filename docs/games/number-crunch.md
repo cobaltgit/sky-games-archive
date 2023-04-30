@@ -10,7 +10,7 @@ comments: true
 
 It's Word Crunch...but with numbers instead of letters! Released by Denki in 2006. This is one of the later games that uses the Sky Gamestar branding rather than the Sky Active branding
 
-<a href="https://denki.co.uk/sky/nc/app.html"><img src="/assets/img/nc-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/nc/app.html"><img src="/assets/img/menus/nc-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
 Use the provided numbers to make numbers within the time limit and score points - the bigger the number, the more points are awarded  
 Bonus points are awarded for outstanding play, such as completing groups and speed

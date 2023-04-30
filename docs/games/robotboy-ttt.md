@@ -10,7 +10,7 @@ comments: true
 
 The fourth and final Robotboy game by Denki, released in mid 2008. Based on the British-French Cartoon Network series of the same name
 
-<a href="https://denki.co.uk/sky/robotboy/app.html"><img src="/assets/img/robotboy-ttt-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/robotboy/app.html"><img src="/assets/img/menus/robotboy-ttt-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
 <blockquote>
     <p>Robotboy faces his greatest challenge to defeat not one evil genius... but two! Dr. Kamikazi and Gneral Yakitori have teamed up to capture our hero Robotboy - and it looks as their dastardly plan is going to succeed!</p>

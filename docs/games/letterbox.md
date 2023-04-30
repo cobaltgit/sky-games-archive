@@ -10,7 +10,7 @@ comments: true
 
 A grid-based word puzzle game, released by Denki in 2004
 
-<a href="https://denki.co.uk/sky/lb/app.html"><img src="/assets/img/letterbox-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/lb/app.html"><img src="/assets/img/menus/letterbox-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
 - Use the assortment of letters in the grid to create recognised words between three and eight letters and score points
 - Play each grid until either the time runs out (game over) or the Word Quota Target is met (level up)

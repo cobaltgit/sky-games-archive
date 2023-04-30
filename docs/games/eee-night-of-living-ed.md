@@ -10,7 +10,7 @@ comments: true
 
 One of two Ed, Edd and Eddy games released by Denki in 2005
 
-<a href="https://denki.co.uk/sky/eddy/app.html"><img src="/assets/img/night-of-living-ed-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/eddy/app.html"><img src="/assets/img/menus/night-of-living-ed-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
 Take control of Edd and explore the Cul-De-Sac, setting trapped kids free and collecting Jawbreakers along the way
 

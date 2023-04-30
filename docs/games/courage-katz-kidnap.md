@@ -10,7 +10,7 @@ comments: true
 
 The first in a series of licenced games based on the Cartoon Network series *Courage the Cowardly Dog*, released in 2003 by Denki
 
-<a href="https://denki.co.uk/sky/courage/app.html"><img src="/assets/img/katz-kidnap-menu.jpg" width="60%" style="float: right; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/courage/app.html"><img src="/assets/img/menus/katz-kidnap-menu.jpg" width="60%" style="float: right; padding-left: 64px"></a>
 
 <blockquote>
     <p>Hey, where is everybody?</p>

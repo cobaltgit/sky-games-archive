@@ -11,7 +11,7 @@ comments: true
 
 An original block-based puzzle game from Denki released in 2003.
 
-<a href="https://denki.co.uk/sky/duo/app.html"><img src="/assets/img/duopolis-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/duo/app.html"><img src="/assets/img/menus/duopolis-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
 - A pair of coloured blocks fall into a pit from a dispenser
 - Join together clumps of blocks with their corresponding colours to clear the pit and gain points

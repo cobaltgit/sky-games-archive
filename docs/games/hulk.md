@@ -10,7 +10,7 @@ comments: true
 
 A 2D beat-em-up game based on the eponymous film with mixed reviews, released in 2003 by Denki
 
-<a href="https://denki.co.uk/sky/hulk/app.html"><img src="/assets/img/hulk-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/hulk/app.html"><img src="/assets/img/menus/hulk-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
 * Take control of Hulk as he fends off the armed forces sent to engage and attack him
 * Destroy enemies to earn points and progress through the game

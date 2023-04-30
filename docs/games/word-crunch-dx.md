@@ -10,7 +10,7 @@ comments: true
 
 A Boggle-esque game released in 2005 by Denki
 
-<a href="https://denki.co.uk/sky/wcd/app.html"><img src="/assets/img/word-crunch-dx-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/wcd/app.html"><img src="/assets/img/menus/word-crunch-dx-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
 - Use the provided set of letters to create recognised words
 - Points are awarded for words between three and seven letters - the more letters, the higher score awarded

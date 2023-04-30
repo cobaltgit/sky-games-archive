@@ -10,7 +10,7 @@ comments: true
 
 The first, and perhaps most popular game in Denki's portfolio - initially released in July 2001 for the Open.... Games platform and later ported to the Game Boy Advance and Game Boy Colour in October of the same year
 
-<a href="https://denki.co.uk/sky/db/app.html"><img src="/assets/img/denki-blocks-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/db/app.html"><img src="/assets/img/menus/denki-blocks-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
 Described as "Tetris for the 21st century" by the Sunday Times
 

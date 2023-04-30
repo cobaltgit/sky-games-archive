@@ -10,7 +10,7 @@ comments: true
 
 A reimagining of the classic [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) subgenre for Sky Gamestar, released in 2003 by Denki
 
-<a href="https://denki.co.uk/sky/cc/app.html"><img src="/assets/img/cc-menu.jpg" width="60%" style="float: right; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/cc/app.html"><img src="/assets/img/menus/cc-menu.jpg" width="60%" style="float: right; padding-left: 64px"></a>
 
 Weave around grassy obstacles and collect food to score points and advance through the levels
 

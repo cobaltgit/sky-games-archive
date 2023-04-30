@@ -10,7 +10,7 @@ comments: true
 
 The first in a series of licenced games based on the Cartoon Network series *Codename: Kids Next Door* - this one was first released in 2004 by Denki
 
-<a href="https://denki.co.uk/sky/cknd/app.html"><img src="/assets/img/knd-bittersweet-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/cknd/app.html"><img src="/assets/img/menus/knd-bittersweet-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
 <blockquote>
     <p>The stickiest pirate to ever sail the suburbs is back! And this time he really means business...</p>
