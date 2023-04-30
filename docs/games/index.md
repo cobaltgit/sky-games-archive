@@ -25,7 +25,7 @@ Release date is in YYYY-MM-DD format
 
 |Game|Release date|Completable|Major bugs|Minor bugs|
 |----|-----------|----------|----------|----------|
-[Boggle]|2005-02-17|Yes|
+[Boggle](/games/boggle)|2005-02-17|Yes|
 [Codename: Kids Next Door - Operation B.I.T.T.E.R.S.W.E.E.T.](/games/knd-bittersweet)|2004-07-29|Yes|
 [Courage the Cowardly Dog in Katz Kidnap](/games/courage-katz-kidnap)|2003-10-23|Yes|Some doors may render as invisible|
 [Ed, Edd n Eddy: Night of the Living Ed](/games/eee-night-of-living-ed)|2005-08-11|Yes|Sound effects do not work|
