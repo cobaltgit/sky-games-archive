@@ -40,6 +40,7 @@ Release date is in YYYY-MM-DD format
 [Foster's Home for Imaginary Friends: Tick Tock Terror](/games/foster-ttt)|2005-04-14|No|[The game turns mostly dark when entering a portal](https://cdn.discordapp.com/attachments/1098329726126411856/1101901829320736868/image.png)
 [All Grown Up: Confiscated Cards](/games/all-grown-up)|2006-12-07|Unknown|
 [Caterpillar Crunch](/games/caterpillar)|2003-08-14|Unknown|Sound effects overlap with music|
+[Codename: Kids Next Door: Operation: T.E.E.N.A.G.E.R.](/games/knd-teenager)|2006-04-06|Unknown|
 [Denki Blocks!](/games/denki-blocks)|2001-08-31|Unknown|
 [Dexter's Laboratory: Dexter vs. Mandark](/games/dexter-vs-mandark)|2005-03-24|Unknown|
 [Genie's Cave](/games/genies-cave)|2004-12-02|Unknown|
