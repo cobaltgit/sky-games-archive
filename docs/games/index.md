@@ -34,7 +34,7 @@ Release date is in YYYY-MM-DD format
 [Number Crunch](/games/number-crunch)|2006-11-09|Yes|[The help section shows the terms and conditions for *Who Wants to be a Millionaire*](/assets/img/nc-terms.jpg)
 [Robotboy: Tag Team Trouble](/games/robotboy-ttt)|2008-08-14|Yes|Menu after game over screen does not work
 [SpongeBob SquarePants: Bikini Bottom in Bother](/games/spongebob-bbb)|2006-02-16|Yes|
-[Star Trek: The Next Generation](/games/star-trek-tng)|2005-09-08|Yes|
+[Star Trek: The Next Generation: STRANDED](/games/star-trek-tng)|2005-09-08|Yes|
 [Tetris](/games/tetris)|2004-12-16|Yes|[Pausing and selecting the 'continue' option during the intro jingle subsequently will take you to the main menu rather than resuming the game](/assets/video/tetris-bug.webm)
 [Tom and Jerry in Mouse Party](/games/tj-mouse-party)|2004-05-06|Yes|[Wrong music and sound effects](https://www.youtube.com/watch?v=KWhWNucRWHI)
 [Foster's Home for Imaginary Friends: Tick Tock Terror](/games/foster-ttt)|2005-04-14|No|[The game turns mostly dark when entering a portal](https://cdn.discordapp.com/attachments/1098329726126411856/1101901829320736868/image.png)
