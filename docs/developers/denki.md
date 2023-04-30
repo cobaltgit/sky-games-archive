@@ -48,7 +48,7 @@ Codename: Kids Next Door: Operation: R.E.V.E.N.G.E.|2005-08-04|No|
 [Ed, Edd n Eddy: Night of the Living Ed](/games/eee-night-of-living-ed)|2005-08-11|Yes|
 Scooby Doo: Where are You in "Mummy Madness"|2005-09-08|No|
 [Star Trek: The Next Generation: STRANDED](/games/star-trek-tng)|2005-09-08|Yes|
-Wallace & Gromit: The Curse of the Were-Rabbit|2005-10-06|No|
+[Wallace & Gromit: The Curse of the Were-Rabbit](/games/wallace-gromit-were-rabbit)|2005-10-06|Yes|
 Dexter's Laboratory: Mandark Strikes Back|2005-10-13|No|
 Foster's Home for Imaginary Friends: Brotherly Love|2005-11-10|No|
 Ed, Edd n Eddy: Jingle-Bell Ed|2005-12-15|No|

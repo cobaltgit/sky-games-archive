@@ -52,6 +52,7 @@ Release date is in YYYY-MM-DD format
 [The Grim Adventures of Billy and Mandy](/games/billy-mandy)|2006-03-09|Unknown|
 [Thunderbirds](/games/thunderbirds)|2004-10-14|Unknown|Some background files are missing|
 [Tom and Jerry in "Dynamice"](/games/tj-dynamice)|2007-09-13|Unknown|No music<br>Retry menu does not disappear after game over
+[Wallace & Gromit: The Curse of the Were-Rabbit](/games/wallace-gromit-were-rabbit)|2005-10-06|Unknown|Some graphics on the map screen are glitched
 [Duopolis](/games/duopolis)|2003-12-04|Endless|Quitting a game to return to the main menu causes a crash|
 [Jumble Fever](/games/jumble-fever)|2005-06-09|Endless|
 [Letter Box](/games/letterbox)|2004-03-18|Endless|
