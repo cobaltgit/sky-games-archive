@@ -25,6 +25,7 @@ Release date is in YYYY-MM-DD format
 
 |Game|Release date|Completable|Major bugs|Minor bugs|
 |----|-----------|----------|----------|----------|
+[Boggle]|2005-02-17|Yes|
 [Codename: Kids Next Door - Operation B.I.T.T.E.R.S.W.E.E.T.](/games/knd-bittersweet)|2004-07-29|Yes|
 [Courage the Cowardly Dog in Katz Kidnap](/games/courage-katz-kidnap)|2003-10-23|Yes|Some doors may render as invisible|
 [Ed, Edd n Eddy: Night of the Living Ed](/games/eee-night-of-living-ed)|2005-08-11|Yes|Sound effects do not work|
@@ -42,6 +43,7 @@ Release date is in YYYY-MM-DD format
 [Denki Blocks!](/games/denki-blocks)|2001-08-31|Unknown|
 [Dexter's Laboratory: Dexter vs. Mandark](/games/dexter-vs-mandark)|2005-03-24|Unknown|
 [Genie's Cave](/games/genies-cave)|2004-12-02|Unknown|
+[Kingpin Bowling](/games/kingpin)|2007-02-08|Unknown|
 [Scooby Doo Mysteries: The Case of the Creepy Cowboy](/games/scooby-creepy-cowboy)|2006-05-11|Unknown|
 [Scooby Doo: Where are You in "The Mystery of Eerie Isle"](/games/scooby-eerie-isle)|2004-09-16|Unknown|
 [Scooby Doo: Where are You in "Tomb it May Concern"](/games/scooby-tomb)|2006-07-27|Unknown|
