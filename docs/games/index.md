@@ -45,6 +45,7 @@ Release date is in YYYY-MM-DD format
 [Foster's Home for Imaginary Friends: Tick Tock Terror](/games/foster-ttt)|2005-04-14|Unknown
 [Genie's Cave](/games/genies-cave)|2004-12-02|Unknown|
 [Kingpin Bowling](/games/kingpin)|2007-02-08|Unknown|
+[Pac-Man](/games/pacman)|2002-12-13|Unknown|Sound effects are missing|
 [Scooby Doo Mysteries: The Case of the Creepy Cowboy](/games/scooby-creepy-cowboy)|2006-05-11|Unknown|
 [Scooby Doo: Where are You in "The Mystery of Eerie Isle"](/games/scooby-eerie-isle)|2004-09-16|Unknown|
 [Scooby Doo: Where are You in "Tomb it May Concern"](/games/scooby-tomb)|2006-07-27|Unknown|

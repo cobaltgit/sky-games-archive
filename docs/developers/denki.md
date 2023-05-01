@@ -17,7 +17,7 @@ Denki created games for the Sky Gamestar interactive service between 2001 and 20
 [Denki Blocks!](/games/denki-blocks)|2001-08-31|Yes|
 Super Breakout|2002-05-17|No|
 Bust-a-Move|2002-10-11|No|
-Pac-Man|2002-12-13|No|
+[Pac-Man](/games/pacman)|2002-12-13|Yes|
 [Hulk](/games/hulk)|2003-08-14|Yes|
 [Caterpillar Crunch](/games/caterpillar)|2003-08-14|Yes|
 [Courage the Cowardly Dog in Katz Kidnap](/games/courage-katz-kidnap)|2003-10-23|Yes|
