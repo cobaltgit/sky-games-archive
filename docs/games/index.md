@@ -37,7 +37,7 @@ Release date is in YYYY-MM-DD format
 [Star Trek: The Next Generation: STRANDED](/games/star-trek-tng)|2005-09-08|Yes|
 [Tetris](/games/tetris)|2004-12-16|Yes|[Pausing and selecting the 'continue' option during the intro jingle subsequently will take you to the main menu rather than resuming the game](/assets/video/tetris-bug.webm)
 [Tom and Jerry in Mouse Party](/games/tj-mouse-party)|2004-05-06|Yes|[Wrong music and sound effects](https://www.youtube.com/watch?v=KWhWNucRWHI)
-[All Grown Up: Confiscated Cards](/games/all-grown-up)|2006-12-07|Unknown|
+[All Grown Up: Confiscated Cards](/games/all-grown-up)|2006-12-07|Unknown|Intro ceremony does not play properly
 [Caterpillar Crunch](/games/caterpillar)|2003-08-14|Unknown|Sound effects overlap with music|
 [Codename: Kids Next Door: Operation: T.E.E.N.A.G.E.R.](/games/knd-teenager)|2006-04-06|Unknown|
 [Denki Blocks!](/games/denki-blocks)|2001-08-31|Unknown|
@@ -51,7 +51,7 @@ Release date is in YYYY-MM-DD format
 [Shrek: Fiona's Rescue](/games/shrek-fiona-rescue)|2005-02-17|Unknown|
 [The Grim Adventures of Billy and Mandy](/games/billy-mandy)|2006-03-09|Unknown|
 [Thunderbirds](/games/thunderbirds)|2004-10-14|Unknown|Some background files are missing|
-[Tom and Jerry in "Dynamice"](/games/tj-dynamice)|2007-09-13|Unknown|No music<br>Retry menu does not disappear after game over
+[Tom and Jerry in "Dynamice"](/games/tj-dynamice)|2007-09-13|Unknown|No music
 [Wallace & Gromit: The Curse of the Were-Rabbit](/games/wallace-gromit-were-rabbit)|2005-10-06|Unknown|Some graphics on the map screen are glitched
 [Duopolis](/games/duopolis)|2003-12-04|Endless|Quitting a game to return to the main menu causes a crash|
 [Jumble Fever](/games/jumble-fever)|2005-06-09|Endless|
