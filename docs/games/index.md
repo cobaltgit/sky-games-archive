@@ -51,7 +51,7 @@ Release date is in YYYY-MM-DD format
 [Scooby Doo: Where are You in "The Mystery of Eerie Isle"](/games/scooby-eerie-isle)|2004-09-16|Unknown|
 [Scooby Doo: Where are You in "Tomb it May Concern"](/games/scooby-tomb)|2006-07-27|Unknown|
 [Shrek: Fiona's Rescue](/games/shrek-fiona-rescue)|2005-02-17|Unknown|
-[The Grim Adventures of Billy and Mandy](/games/billy-mandy)|2006-03-09|Unknown|
+[The Grim Adventures of Billy and Mandy](/games/billy-and-mandy)|2006-03-09|Unknown|
 [Thunderbirds](/games/thunderbirds)|2004-10-14|Unknown|Some background files are missing|
 [Tom and Jerry in "Dynamice"](/games/tj-dynamice)|2007-09-13|Unknown|No music
 [Wallace & Gromit: The Curse of the Were-Rabbit](/games/wallace-gromit-were-rabbit)|2005-10-06|Unknown|Some graphics on the map screen are glitched
