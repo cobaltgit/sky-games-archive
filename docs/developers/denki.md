@@ -21,7 +21,7 @@ Bust-a-Move|2002-10-11|No|
 [Hulk](/games/hulk)|2003-08-14|Yes|
 [Caterpillar Crunch](/games/caterpillar)|2003-08-14|Yes|
 [Courage the Cowardly Dog in Katz Kidnap](/games/courage-katz-kidnap)|2003-10-23|Yes|
-Darts|2003-12-04|No|
+[Darts](/games/darts)|2003-12-04|Yes|
 [Duopolis](/games/duopolis)|2003-12-04|Yes|
 Word Crunch|2003-12-04|No|
 [Looney Tunes: Back in Action](/games/lt-bia)|2004-02-12|Yes|

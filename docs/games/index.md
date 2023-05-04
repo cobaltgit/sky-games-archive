@@ -28,6 +28,7 @@ Release date is in YYYY-MM-DD format
 [Boggle](/games/boggle)|2005-02-17|Yes|
 [Codename: Kids Next Door - Operation B.I.T.T.E.R.S.W.E.E.T.](/games/knd-bittersweet)|2004-07-29|Yes|
 [Courage the Cowardly Dog in Katz Kidnap](/games/courage-katz-kidnap)|2003-10-23|Yes|Some doors may render as invisible|
+[Darts](/games/darts)|2003-12-04|Yes|
 [Ed, Edd n Eddy: Night of the Living Ed](/games/eee-night-of-living-ed)|2005-08-11|Yes|Sound effects do not work|
 [Hulk](/games/hulk)|2003-08-14|Yes|
 [Looney Tunes: Back in Action](/games/lt-bia)|2004-02-12|Yes|
@@ -57,6 +58,6 @@ Release date is in YYYY-MM-DD format
 [Duopolis](/games/duopolis)|2003-12-04|Endless|Quitting a game to return to the main menu causes a crash|
 [Jumble Fever](/games/jumble-fever)|2005-06-09|Endless|
 [Letter Box](/games/letterbox)|2004-03-18|Endless|
-[Word Crunch Deluxe](/games/word-crunch-dx)|2005-12-15|Endless|[Crash may occur during play. Root cause is unknown however it may be due to multiple ceremonies at once](/assets/img/word-crunch-dx-crash.png)
+[Word Crunch Deluxe](/games/word-crunch-dx)|2005-12-15|Endless|[Crash may occur during play. Possibly caused by submitting a new word too quickly after completing a group](/assets/img/word-crunch-dx-crash.png)
 
 Most licenced games follow a similar, if not the same format of being a sprite-based flip screen platformer
