@@ -50,6 +50,7 @@ Release date is in YYYY-MM-DD format
 [Scooby Doo Mysteries: The Case of the Creepy Cowboy](/games/scooby-creepy-cowboy)|2006-05-11|Unknown|
 [Scooby Doo: Where are You in "The Mystery of Eerie Isle"](/games/scooby-eerie-isle)|2004-09-16|Unknown|
 [Scooby Doo: Where are You in "Tomb it May Concern"](/games/scooby-tomb)|2006-07-27|Unknown|
+[Super Breakout](/games/super-breakout)|2002-05-17|Unknown|Attempting to access the help screen will softlock the game|
 [Shrek: Fiona's Rescue](/games/shrek-fiona-rescue)|2005-02-17|Unknown|
 [The Grim Adventures of Billy and Mandy](/games/billy-and-mandy)|2006-03-09|Unknown|
 [Thunderbirds](/games/thunderbirds)|2004-10-14|Unknown|Some background files are missing|

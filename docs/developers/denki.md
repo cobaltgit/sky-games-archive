@@ -15,7 +15,7 @@ Denki created games for the Sky Gamestar interactive service between 2001 and 20
 |Game|Release date|Playable online?|Notes|
 |----|------------|----------------|-----|
 [Denki Blocks!](/games/denki-blocks)|2001-08-31|Yes|
-Super Breakout|2002-05-17|No|
+[Super Breakout](/games/super-breakout)|2002-05-17|Yes|
 Bust-a-Move|2002-10-11|No|
 [Pac-Man](/games/pacman)|2002-12-13|Yes|
 [Hulk](/games/hulk)|2003-08-14|Yes|
