@@ -40,7 +40,7 @@ Release date is in YYYY-MM-DD format
 [Ed, Edd n Eddy: Night of the Living Ed](/games/denki/eee-night-of-living-ed)|2005-08-11|No|Sound effects do not work<br>[Game crashes when selecting the rollerskates item](https://cdn.discordapp.com/attachments/1098329726126411856/1104141294437150751/2023-05-05.png)|
 [All Grown Up: Confiscated Cards](/games/denki/all-grown-up)|2006-12-07|Unknown|Intro ceremony does not play properly|
 [Bugz](/games/denki/bugz)|2007-06-21|Unknown|Selecting Help will crash the game|
-[Bust-a-Move](/games/bust-a-move)|2002-10-11|Unknown|
+[Bust-a-Move](/games/denki/bust-a-move)|2002-10-11|Unknown|
 [Caterpillar Crunch](/games/denki/caterpillar)|2003-08-14|Unknown|Sound effects overlap with music|
 [Codename: Kids Next Door: Operation: T.E.E.N.A.G.E.R.](/games/denki/knd-teenager)|2006-04-06|Unknown|
 [Denki Blocks!](/games/denki/denki-blocks)|2001-08-31|Unknown|
