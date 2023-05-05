@@ -16,7 +16,7 @@ Denki created games for the Sky Gamestar interactive service between 2001 and 20
 |----|------------|----------------|-----|
 [Denki Blocks!](/games/denki/denki-blocks)|2001-08-31|Yes|
 [Super Breakout](/games/denki/super-breakout)|2002-05-17|Yes|
-[Bust-a-Move](/games/bust-a-move)|2002-10-11|Yes|
+[Bust-a-Move](/games/denki/bust-a-move)|2002-10-11|Yes|
 [Pac-Man](/games/denki/pacman)|2002-12-13|Yes|
 [Hulk](/games/denki/hulk)|2003-08-14|Yes|
 [Caterpillar Crunch](/games/denki/caterpillar)|2003-08-14|Yes|
@@ -53,33 +53,33 @@ Dexter's Laboratory: Mandark Strikes Back|2005-10-13|No|
 Foster's Home for Imaginary Friends: Brotherly Love|2005-11-10|No|
 Ed, Edd n Eddy: Jingle-Bell Ed|2005-12-15|No|
 Scooby Doo: Where are You in "The Curse of the Mystery Mine"|2005-12-15|No|
-[Word Crunch Deluxe](/games/denki/denki/word-crunch-dx)|2005-12-15|Yes|
+[Word Crunch Deluxe](/games/denki/word-crunch-dx)|2005-12-15|Yes|
 Jumble Fever Christmas|2005-12-15|No|
 Shrek: Godmother's Revenge|2005-12-15|No|
 Dexter's Laboratory: Dorkster's Revenge|2006-01-12|No|
 Tom and Jerry in "Duck and Cover"|2006-02-09|No|
-[SpongeBob SquarePants: Bikini Bottom in Bother](/games/denki/denki/spongebob-bbb)|2006-02-16|Yes|
-[The Grim Adventures of Billy & Mandy](/games/denki/denki/billy-and-mandy)|2006-03-09|Yes|
+[SpongeBob SquarePants: Bikini Bottom in Bother](/games/denki/spongebob-bbb)|2006-02-16|Yes|
+[The Grim Adventures of Billy & Mandy](/games/denki/billy-and-mandy)|2006-03-09|Yes|
 Jumble Fever Scooby-Doo|2006-03-16|No|
-[Codename: Kids Next Door: Operation: T.E.E.N.A.G.E.R.](/games/denki/denki/knd-teenager)|2006-04-06|Yes|
+[Codename: Kids Next Door: Operation: T.E.E.N.A.G.E.R.](/games/denki/knd-teenager)|2006-04-06|Yes|
 Jumble Fever Easter|2006-04-06|No|
 SpongeBob SquarePants: Krabby Patty Kidnap|2006-04-27|No|
-[Scooby-Doo Mysteries: The Case of the Creepy Cowboy](/games/denki/denki/scooby-creepy-cowboy)|2006-05-11|Yes|
+[Scooby-Doo Mysteries: The Case of the Creepy Cowboy](/games/denki/scooby-creepy-cowboy)|2006-05-11|Yes|
 Shrek: Double Trouble|2006-05-18|No|
 Jumble Fever Tom and Jerry|2006-06-08|No|
 Jumble Football Fever|2006-06-08|No|
 SpongeBob SquarePants: The Flying Dutchman|2006-07-06|No|
-[Scooby Doo: Where are You in "Tomb it May Concern"](/games/denki/denki/scooby-tomb)|2006-07-27|Yes|
+[Scooby Doo: Where are You in "Tomb it May Concern"](/games/denki/scooby-tomb)|2006-07-27|Yes|
 SpongeBob SquarePants: Save Our Sandy|2006-08-17|No|
 Shrek: Imperial Peril|2006-08-17|No|
 Tom and Jerry in "Rickety House Mouse"|2006-10-05|No|
 Scooby-Doo Mysteries: The Case of the Frosty Snowman|2006-10-19|No|
 Jumble Fever Halloween|2006-10-19|No|
-[Number Crunch](/games/denki/denki/number-crunch)|2006-11-09|Yes|
-[All Grown Up: Confiscated Cards](/games/denki/denki/all-grown-up)|2006-12-07|Yes|
+[Number Crunch](/games/denki/number-crunch)|2006-11-09|Yes|
+[All Grown Up: Confiscated Cards](/games/denki/all-grown-up)|2006-12-07|Yes|
 Word Crunch 2: Conundrums|2006-12-14|No|
 Codename: Kids Next Door: Operation: G.U.M.D.R.O.P.|2007-02-08|No|
-[Kingpin Bowling](/games/denki/denki/kingpin-bowling)|2007-02-08|Yes|
+[Kingpin Bowling](/games/denki/kingpin-bowling)|2007-02-08|Yes|
 Carol Vorderman's Mind Aerobics|2007-03-15|No|
 Beehive Jumble Fever|2007-03-22|No|
 Robotboy: Kamikazi Kidnap!|2007-03-29|No|Last to be released under Sky Gamestar|
