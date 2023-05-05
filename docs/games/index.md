@@ -29,7 +29,6 @@ Release date is in YYYY-MM-DD format
 [Codename: Kids Next Door - Operation B.I.T.T.E.R.S.W.E.E.T.](/games/denki/knd-bittersweet)|2004-07-29|Yes|
 [Courage the Cowardly Dog in Katz Kidnap](/games/denki/courage-katz-kidnap)|2003-10-23|Yes|Some doors may render as invisible|
 [Darts](/games/denki/darts)|2003-12-04|Yes|Selecting Sound > Sound FX in the main menu will crash the game
-[Ed, Edd n Eddy: Night of the Living Ed](/games/denki/eee-night-of-living-ed)|2005-08-11|Yes|Sound effects do not work|
 [Hulk](/games/denki/hulk)|2003-08-14|Yes|
 [Looney Tunes: Back in Action](/games/denki/lt-bia)|2004-02-12|Yes|
 [Number Crunch](/games/denki/number-crunch)|2006-11-09|Yes|[The help section shows the terms and conditions for *Who Wants to be a Millionaire*](/assets/img/nc-terms.jpg)
@@ -38,7 +37,10 @@ Release date is in YYYY-MM-DD format
 [Star Trek: The Next Generation: STRANDED](/games/denki/star-trek-tng)|2005-09-08|Yes|
 [Tetris](/games/denki/tetris)|2004-12-16|Yes|[Pausing and selecting the 'continue' option during the intro jingle subsequently will take you to the main menu rather than resuming the game](/assets/video/tetris-bug.webm)
 [Tom and Jerry in Mouse Party](/games/denki/tj-mouse-party)|2004-05-06|Yes|[Wrong music and sound effects](https://www.youtube.com/watch?v=KWhWNucRWHI)
-[All Grown Up: Confiscated Cards](/games/denki/all-grown-up)|2006-12-07|Unknown|Intro ceremony does not play properly
+[Ed, Edd n Eddy: Night of the Living Ed](/games/denki/eee-night-of-living-ed)|2005-08-11|No|Sound effects do not work<br>[Game crashes when selecting the rollerskates item](https://cdn.discordapp.com/attachments/1098329726126411856/1104141294437150751/2023-05-05.png)|
+[All Grown Up: Confiscated Cards](/games/denki/all-grown-up)|2006-12-07|Unknown|Intro ceremony does not play properly|
+[Bugz](/games/denki/bugz)|2007-06-21|Unknown|Selecting Help will crash the game|
+[Bust-a-Move](/games/bust-a-move)|2002-10-11|Unknown|
 [Caterpillar Crunch](/games/denki/caterpillar)|2003-08-14|Unknown|Sound effects overlap with music|
 [Codename: Kids Next Door: Operation: T.E.E.N.A.G.E.R.](/games/denki/knd-teenager)|2006-04-06|Unknown|
 [Denki Blocks!](/games/denki/denki-blocks)|2001-08-31|Unknown|

@@ -16,7 +16,7 @@ Denki created games for the Sky Gamestar interactive service between 2001 and 20
 |----|------------|----------------|-----|
 [Denki Blocks!](/games/denki/denki-blocks)|2001-08-31|Yes|
 [Super Breakout](/games/denki/super-breakout)|2002-05-17|Yes|
-Bust-a-Move|2002-10-11|No|
+[Bust-a-Move](/games/bust-a-move)|2002-10-11|Yes|
 [Pac-Man](/games/denki/pacman)|2002-12-13|Yes|
 [Hulk](/games/denki/hulk)|2003-08-14|Yes|
 [Caterpillar Crunch](/games/denki/caterpillar)|2003-08-14|Yes|
@@ -87,7 +87,7 @@ Tom and Jerry: An Eggs-plosive Easter|2007-04-05|No|First to be released under S
 Shrek Jumble Rumble|2007-04-05|No|
 Carol Vorderman's Mind Aerobics: Summer Shape Up|2007-06-07|No|
 Shrek the Third|2007-06-14|No|
-Bugz|2007-06-21|No|
+[Bugz](/games/denki/bugz)|2007-06-21|Yes|
 Robotboy: Something in the Darkness Drools!|2007-07-05|No|
 Jumble Fever SpongeBob SquarePants|2007-07-12|No|
 The Grim Adventures of Billy and Mandy: Hell's Hamsters|2007-09-06|No|
