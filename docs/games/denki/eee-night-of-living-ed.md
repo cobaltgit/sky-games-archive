@@ -9,6 +9,10 @@ comments: true
 </div>
 
 One of two Ed, Edd and Eddy games released by Denki in 2005
+<div style="color: red; font-weight: bold">
+    <p>This game is not completable</p>
+    Reason: <a href="https://cdn.discordapp.com/attachments/1098329726126411856/1104141294437150751/2023-05-05.png">Game crashes when selecting the rollerskates item</a>
+</div>
 
 <a href="https://denki.co.uk/sky/eddy/app.html"><img src="/assets/img/menus/night-of-living-ed-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
