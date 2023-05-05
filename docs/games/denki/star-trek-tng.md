@@ -10,7 +10,7 @@ comments: true
 
 A one-off Star Trek space game, released in 2005 by Denki
 
-<a href="https://denki.co.uk/sky/tbirds/app.html"><img src="/assets/img/menus/tbirds-menu.jpg" width="60%" style="float: right; padding-left: 64px"></a>
+<a href="https://denki.co.uk/sky/st/app.html"><img src="/assets/img/menus/star-trek-tng-menu.jpg" width="60%" style="float: right; padding-left: 64px"></a>
 
 
 <blockquote>
