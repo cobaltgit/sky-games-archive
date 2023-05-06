@@ -39,7 +39,7 @@ Release date is in YYYY-MM-DD format
 [Tom and Jerry in Mouse Party](/games/denki/tj-mouse-party)|2004-05-06|Yes|[Wrong music and sound effects](https://www.youtube.com/watch?v=KWhWNucRWHI)
 [Bugz](/games/denki/bugz)|2007-06-21|No|Selecting Help will crash the game<br>[In the winter levels, the snow piles are completely solid](https://cdn.discordapp.com/attachments/1098329726126411856/1104154478766194709/image.png)|
 [Ed, Edd n Eddy: Night of the Living Ed](/games/denki/eee-night-of-living-ed)|2005-08-11|No|Sound effects do not work<br>[Game crashes when selecting the rollerskates item](https://cdn.discordapp.com/attachments/1098329726126411856/1104141294437150751/2023-05-05.png)|
-[Jumble Quest: The Lost Pyramids](/games/jumble-quest)|2007-04-05|No|[Game crashes at level 5](https://media.discordapp.net/attachments/1098329726126411856/1104395330658770974/image.png)|
+[Jumble Quest: The Lost Pyramids](/games/denki/jumble-quest)|2007-04-05|No|[Game crashes at level 5](https://media.discordapp.net/attachments/1098329726126411856/1104395330658770974/image.png)|
 [All Grown Up: Confiscated Cards](/games/denki/all-grown-up)|2006-12-07|Unknown|Intro ceremony does not play properly|
 [Bust-a-Move](/games/denki/bust-a-move)|2002-10-11|Unknown|
 [Caterpillar Crunch](/games/denki/caterpillar)|2003-08-14|Unknown|Sound effects overlap with music|

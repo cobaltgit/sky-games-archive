@@ -84,7 +84,7 @@ Carol Vorderman's Mind Aerobics|2007-03-15|No|
 Beehive Jumble Fever|2007-03-22|No|
 Robotboy: Kamikazi Kidnap!|2007-03-29|No|Last to be released under Sky Gamestar|
 Tom and Jerry: An Eggs-plosive Easter|2007-04-05|No|First to be released under Sky Games|
-[Jumble Quest: The Lost Pyramids](/games/jumble-quest)|2007-04-05|Yes|
+[Jumble Quest: The Lost Pyramids](/games/denki/jumble-quest)|2007-04-05|Yes|
 Shrek Jumble Rumble|2007-04-05|No|
 Carol Vorderman's Mind Aerobics: Summer Shape Up|2007-06-07|No|
 [Shrek the Third](/games/denki/shrek-3)|2007-06-14|Yes|
