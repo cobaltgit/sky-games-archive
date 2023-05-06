@@ -37,9 +37,9 @@ Release date is in YYYY-MM-DD format
 [Star Trek: The Next Generation: STRANDED](/games/denki/star-trek-tng)|2005-09-08|Yes|
 [Tetris](/games/denki/tetris)|2004-12-16|Yes|[Pausing and selecting the 'continue' option during the intro jingle subsequently will take you to the main menu rather than resuming the game](/assets/video/tetris-bug.webm)
 [Tom and Jerry in Mouse Party](/games/denki/tj-mouse-party)|2004-05-06|Yes|[Wrong music and sound effects](https://www.youtube.com/watch?v=KWhWNucRWHI)
+[Bugz](/games/denki/bugz)|2007-06-21|No|Selecting Help will crash the game<br>[In the winter levels, the snow piles are completely solid](https://cdn.discordapp.com/attachments/1098329726126411856/1104154478766194709/image.png)|
 [Ed, Edd n Eddy: Night of the Living Ed](/games/denki/eee-night-of-living-ed)|2005-08-11|No|Sound effects do not work<br>[Game crashes when selecting the rollerskates item](https://cdn.discordapp.com/attachments/1098329726126411856/1104141294437150751/2023-05-05.png)|
 [All Grown Up: Confiscated Cards](/games/denki/all-grown-up)|2006-12-07|Unknown|Intro ceremony does not play properly|
-[Bugz](/games/denki/bugz)|2007-06-21|Unknown|Selecting Help will crash the game|
 [Bust-a-Move](/games/denki/bust-a-move)|2002-10-11|Unknown|
 [Caterpillar Crunch](/games/denki/caterpillar)|2003-08-14|Unknown|Sound effects overlap with music|
 [Codename: Kids Next Door: Operation: T.E.E.N.A.G.E.R.](/games/denki/knd-teenager)|2006-04-06|Unknown|
