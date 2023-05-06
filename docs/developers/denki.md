@@ -4,7 +4,7 @@ comments: true
 
 # Denki
 
-<a href="https://denki.co.uk/games/archive/product-portfolio-2001-2008/"><img src="/assets/img/logos/denki-logo.png" width="35%" style="float: right; padding-left: 64px"></a>
+<a href="https://denki.co.uk/games/archive/product-portfolio-2001-2008/"><img src="https://upload.wikimedia.org/wikipedia/en/0/00/Denki.svg" width="35%" style="float: right; padding-left: 64px"></a>
 
 Denki is an interactive television and console game developer based in Dundee, Scotland. The company is the developer of over 180 console and interactive television games, covering a range of platforms. Denki has worked extensively in the digital interactive television (IDTV) market, with the majority of their titles created specifically for DirecTV and Sky.
 
