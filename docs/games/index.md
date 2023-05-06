@@ -34,6 +34,7 @@ Release date is in YYYY-MM-DD format
 [Number Crunch](/games/denki/number-crunch)|2006-11-09|Yes|[The help section shows the terms and conditions for *Who Wants to be a Millionaire*](/assets/img/nc-terms.jpg)
 [Robotboy: Tag Team Trouble](/games/denki/robotboy-ttt)|2008-08-14|Yes|Menu after game over screen does not work
 [SpongeBob SquarePants: Bikini Bottom in Bother](/games/denki/spongebob-bbb)|2006-02-16|Yes|
+[Shrek the Third](/games/denki/shrek-3)|2007-06-14|Yes|
 [Star Trek: The Next Generation: STRANDED](/games/denki/star-trek-tng)|2005-09-08|Yes|
 [Tetris](/games/denki/tetris)|2004-12-16|Yes|[Pausing and selecting the 'continue' option during the intro jingle subsequently will take you to the main menu rather than resuming the game](/assets/video/tetris-bug.webm)
 [Tom and Jerry in Mouse Party](/games/denki/tj-mouse-party)|2004-05-06|Yes|[Wrong music and sound effects](https://www.youtube.com/watch?v=KWhWNucRWHI)
@@ -55,7 +56,6 @@ Release date is in YYYY-MM-DD format
 [Scooby Doo: Where are You in "Tomb it May Concern"](/games/denki/scooby-tomb)|2006-07-27|Unknown|
 [Super Breakout](/games/denki/super-breakout)|2002-05-17|Unknown|Attempting to access the help screen will softlock the game|
 [Shrek: Fiona's Rescue](/games/denki/shrek-fiona-rescue)|2005-02-17|Unknown|
-[Shrek the Third](/games/denki/shrek-3)|2007-06-14|Unknown|
 [The Grim Adventures of Billy and Mandy](/games/denki/billy-and-mandy)|2006-03-09|Unknown|
 [Thunderbirds](/games/denki/thunderbirds)|2004-10-14|Unknown|Some background files are missing|
 [Tom and Jerry in "Dynamice"](/games/denki/tj-dynamice)|2007-09-13|Unknown|No music
