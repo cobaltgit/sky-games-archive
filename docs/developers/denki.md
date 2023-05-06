@@ -86,7 +86,7 @@ Robotboy: Kamikazi Kidnap!|2007-03-29|No|Last to be released under Sky Gamestar|
 Tom and Jerry: An Eggs-plosive Easter|2007-04-05|No|First to be released under Sky Games|
 Shrek Jumble Rumble|2007-04-05|No|
 Carol Vorderman's Mind Aerobics: Summer Shape Up|2007-06-07|No|
-Shrek the Third|2007-06-14|No|
+[Shrek the Third](/games/denki/shrek-3)|2007-06-14|Yes|
 [Bugz](/games/denki/bugz)|2007-06-21|Yes|
 Robotboy: Something in the Darkness Drools!|2007-07-05|No|
 Jumble Fever SpongeBob SquarePants|2007-07-12|No|
