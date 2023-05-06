@@ -9,7 +9,7 @@ comments: true
 </div>
 
 One of two Ed, Edd and Eddy games released by Denki in 2005
-<div style="color: red; font-weight: bold">
+<div style="color: red; font-weight: bold; line-height: 1.2em">
     <p>This game is not completable</p>
     Reason: <a href="https://cdn.discordapp.com/attachments/1098329726126411856/1104141294437150751/2023-05-05.png">Game crashes when selecting the rollerskates item</a>
 </div>
