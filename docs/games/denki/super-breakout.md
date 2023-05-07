@@ -12,6 +12,6 @@ The hit 1970s Atari game from Steve Wozniak, who would later go on to found Appl
 
 <a href="https://denki.co.uk/sky/breakout/app.html"><img src="/assets/img/menus/super-breakout-menu.jpg" width="60%" style="float: right; padding-left: 64px"></a>
 
-An enhanced version of the 1976 game Breakout, with a multitude of unique power-ups such as the *Laser Bat* and *Power Ball*! Collect the stars that have a chance to drop from broken blocks to gain bonus points!
+An enhanced version of the 1976 game Breakout, with a multitude of unique power-ups such as the *Gun Bat*, *Smart Bomb* and *Power Ball*! Collect the stars that have a chance to drop from broken blocks to gain bonus points!
 
 Click the menu screen to play!
