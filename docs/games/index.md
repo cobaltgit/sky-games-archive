@@ -32,7 +32,7 @@ Release date is in YYYY-MM-DD format
 [Hulk](/games/denki/hulk)|2003-08-14|Yes|
 [Looney Tunes: Back in Action](/games/denki/lt-bia)|2004-02-12|Yes|
 [Number Crunch](/games/denki/number-crunch)|2006-11-09|Yes|[The help section shows the terms and conditions for *Who Wants to be a Millionaire*](/assets/img/nc-terms.jpg)
-[Robotboy: Tag Team Trouble](/games/denki/robotboy-ttt)|2008-08-14|Yes|Menu after game over screen does not work
+[Robotboy: Tag Team Trouble](/games/denki/robotboy-ttt)|2008-08-14|Yes|
 [SpongeBob SquarePants: Bikini Bottom in Bother](/games/denki/spongebob-bbb)|2006-02-16|Yes|
 [Shrek the Third](/games/denki/shrek-3)|2007-06-14|Yes|
 [Star Trek: The Next Generation: STRANDED](/games/denki/star-trek-tng)|2005-09-08|Yes|
