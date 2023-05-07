@@ -5,10 +5,6 @@ comments: true
 # Jumble Quest: The Lost Pyramids
 
 A spinoff game based on the Jumble Fever series, released in 2007 by Denki
-<div style="color: red; font-weight: bold; line-height: 1.2em">
-    <p>This game is not completable</p>
-    <p>Reason: <a href="https://media.discordapp.net/attachments/1098329726126411856/1104395330658770974/image.png">The game crashes when attempting to enter chamber 5 of the first pyramid, <em>Isirey</em></a></p>
-</div>
 
 <a href="https://denki.co.uk/sky/jc/app.html"><img src="/assets/img/menus/jumble-quest-menu.jpg" width="60%" style="float: right; padding-left: 64px"></a>
 

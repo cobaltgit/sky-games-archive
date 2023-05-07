@@ -28,7 +28,7 @@ Release date is in YYYY-MM-DD format
 [Boggle](/games/denki/boggle)|2005-02-17|Yes|
 [Codename: Kids Next Door - Operation B.I.T.T.E.R.S.W.E.E.T.](/games/denki/knd-bittersweet)|2004-07-29|Yes|
 [Courage the Cowardly Dog in Katz Kidnap](/games/denki/courage-katz-kidnap)|2003-10-23|Yes|Some doors may render as invisible|
-[Darts](/games/denki/darts)|2003-12-04|Yes|Selecting Sound > Sound FX in the main menu will crash the game
+[Darts](/games/denki/darts)|2003-12-04|Yes|
 [Hulk](/games/denki/hulk)|2003-08-14|Yes|
 [Looney Tunes: Back in Action](/games/denki/lt-bia)|2004-02-12|Yes|
 [Number Crunch](/games/denki/number-crunch)|2006-11-09|Yes|[The help section shows the terms and conditions for *Who Wants to be a Millionaire*](/assets/img/nc-terms.jpg)
@@ -38,15 +38,14 @@ Release date is in YYYY-MM-DD format
 [Star Trek: The Next Generation: STRANDED](/games/denki/star-trek-tng)|2005-09-08|Yes|
 [Tetris](/games/denki/tetris)|2004-12-16|Yes|[Pausing and selecting the 'continue' option during the intro jingle subsequently will take you to the main menu rather than resuming the game](/assets/video/tetris-bug.webm)
 [Tom and Jerry in Mouse Party](/games/denki/tj-mouse-party)|2004-05-06|Yes|[Wrong music and sound effects](https://www.youtube.com/watch?v=KWhWNucRWHI)
-[Bugz](/games/denki/bugz)|2007-06-21|No|Selecting Help will crash the game<br>[In the winter levels, the snow piles are completely solid](https://cdn.discordapp.com/attachments/1098329726126411856/1104154478766194709/image.png)|
-[Ed, Edd n Eddy: Night of the Living Ed](/games/denki/eee-night-of-living-ed)|2005-08-11|No|Sound effects do not work<br>[Game crashes when selecting the rollerskates item](https://cdn.discordapp.com/attachments/1098329726126411856/1104141294437150751/2023-05-05.png)|
-[Jumble Quest: The Lost Pyramids](/games/denki/jumble-quest)|2007-04-05|No|[Game crashes at level 5](https://media.discordapp.net/attachments/1098329726126411856/1104395330658770974/image.png)|
 [All Grown Up: Confiscated Cards](/games/denki/all-grown-up)|2006-12-07|Unknown|Intro ceremony does not play properly|
+[Bugz](/games/denki/bugz)|2007-06-21|Unknown|Selecting Help will crash the game|
 [Bust-a-Move](/games/denki/bust-a-move)|2002-10-11|Unknown|
 [Caterpillar Crunch](/games/denki/caterpillar)|2003-08-14|Unknown|Sound effects overlap with music|
 [Codename: Kids Next Door: Operation: T.E.E.N.A.G.E.R.](/games/denki/knd-teenager)|2006-04-06|Unknown|
 [Denki Blocks!](/games/denki/denki-blocks)|2001-08-31|Unknown|
 [Dexter's Laboratory: Dexter vs. Mandark](/games/denki/dexter-vs-mandark)|2005-03-24|Unknown|
+[Ed, Edd n Eddy: Night of the Living Ed](/games/denki/eee-night-of-living-ed)|2005-08-11|Unknown|Sound effects do not work|
 [Foster's Home for Imaginary Friends: Tick Tock Terror](/games/denki/foster-ttt)|2005-04-14|Unknown
 [Genie's Cave](/games/denki/genies-cave)|2004-12-02|Unknown|
 [Kingpin Bowling](/games/denki/kingpin)|2007-02-08|Unknown|
@@ -62,7 +61,8 @@ Release date is in YYYY-MM-DD format
 [Wallace & Gromit: The Curse of the Were-Rabbit](/games/denki/wallace-gromit-were-rabbit)|2005-10-06|Unknown|Some graphics on the map screen are glitched
 [Duopolis](/games/denki/duopolis)|2003-12-04|Endless|Quitting a game to return to the main menu causes a crash|
 [Jumble Fever](/games/denki/jumble-fever)|2005-06-09|Endless|
+[Jumble Quest: The Lost Pyramids](/games/denki/jumble-quest)|2007-04-05|Unknown|
 [Letter Box](/games/denki/letterbox)|2004-03-18|Endless|
-[Word Crunch Deluxe](/games/denki/word-crunch-dx)|2005-12-15|Endless|[Crash may occur during play. Possibly caused by submitting a new word too quickly after completing a group](/assets/img/word-crunch-dx-crash.png)
+[Word Crunch Deluxe](/games/denki/word-crunch-dx)|2005-12-15|Endless|
 
 Most licenced games follow a similar, if not the same format of being a sprite-based flip screen platformer
