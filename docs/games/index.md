@@ -53,7 +53,7 @@ Release date is in YYYY-MM-DD format
 [Scooby Doo Mysteries: The Case of the Creepy Cowboy](/games/denki/scooby-creepy-cowboy)|2006-05-11|Unknown|
 [Scooby Doo: Where are You in "The Mystery of Eerie Isle"](/games/denki/scooby-eerie-isle)|2004-09-16|Unknown|
 [Scooby Doo: Where are You in "Tomb it May Concern"](/games/denki/scooby-tomb)|2006-07-27|Unknown|
-[Super Breakout](/games/denki/super-breakout)|2002-05-17|Unknown|Attempting to access the help screen will softlock the game|
+[Super Breakout](/games/denki/super-breakout)|2002-05-17|Unknown|
 [Shrek: Fiona's Rescue](/games/denki/shrek-fiona-rescue)|2005-02-17|Unknown|
 [The Grim Adventures of Billy and Mandy](/games/denki/billy-and-mandy)|2006-03-09|Unknown|
 [Thunderbirds](/games/denki/thunderbirds)|2004-10-14|Unknown|
