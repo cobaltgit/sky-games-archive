@@ -56,7 +56,7 @@ Release date is in YYYY-MM-DD format
 [Super Breakout](/games/denki/super-breakout)|2002-05-17|Unknown|Attempting to access the help screen will softlock the game|
 [Shrek: Fiona's Rescue](/games/denki/shrek-fiona-rescue)|2005-02-17|Unknown|
 [The Grim Adventures of Billy and Mandy](/games/denki/billy-and-mandy)|2006-03-09|Unknown|
-[Thunderbirds](/games/denki/thunderbirds)|2004-10-14|Unknown|Some background files are missing|
+[Thunderbirds](/games/denki/thunderbirds)|2004-10-14|Unknown|
 [The Muppet Show: Backstage Rampage](/games/denki/muppets)|2007-12-13|Unknown|
 [Tom and Jerry in "Dynamice"](/games/denki/tj-dynamice)|2007-09-13|Unknown|No music
 [Wallace & Gromit: The Curse of the Were-Rabbit](/games/denki/wallace-gromit-were-rabbit)|2005-10-06|Unknown|Some graphics on the map screen are glitched
