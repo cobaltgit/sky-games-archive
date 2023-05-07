@@ -98,7 +98,7 @@ Ben 10: Vilgax Venom|2007-11-08|No|
 Jumble Fever Avatar|2007-11-22|No|
 Robotboy: Repair or Despair|2007-11-29|No|
 SpongeBob SquarePants: Snow Woes|2007-12-06|No|
-The Muppet Show: Backstage Rampage|2007-12-13|No|
+[The Muppet Show: Backstage Rampage](/games/denki/muppets)|2007-12-13|Yes|
 Ben 10: Call of the Wildmutt|2008-02-07|No|
 Denki's Sticky Blocks!|2008-03-06|No|
 Tom and Jerry Dynamice 2|2008-05-08|No|
