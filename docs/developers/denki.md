@@ -43,7 +43,7 @@ Codename: Kids Next Door: Operation: S.H.I.P.W.R.E.C.K.E.D.|2005-01-06|No|
 Looney Tunes: Back in Action: Rabbit Rescue|2005-05-06|No|
 Tom and Jerry in "Mansion House Mouse"|2005-05-12|No|
 [Jumble Fever](/games/denki/jumble-fever)|2005-06-09|Yes|
-Shrek: Disarming Charming|2005-07-14|No|
+[Shrek: Disarming Charming](/games/denki/shrek-disarming-charming)|2005-07-14|Yes|
 Codename: Kids Next Door: Operation: R.E.V.E.N.G.E.|2005-08-04|No|
 [Ed, Edd n Eddy: Night of the Living Ed](/games/denki/eee-night-of-living-ed)|2005-08-11|Yes|
 Scooby Doo: Where are You in "Mummy Madness"|2005-09-08|No|
@@ -55,7 +55,7 @@ Ed, Edd n Eddy: Jingle-Bell Ed|2005-12-15|No|
 Scooby Doo: Where are You in "The Curse of the Mystery Mine"|2005-12-15|No|
 [Word Crunch Deluxe](/games/denki/word-crunch-dx)|2005-12-15|Yes|
 Jumble Fever Christmas|2005-12-15|No|
-Shrek: Godmother's Revenge|2005-12-15|No|
+[Shrek: Fairy Godmother's Revenge](/games/denki/shrek-fgm-revenge)|2005-12-15|Yes|
 Dexter's Laboratory: Dorkster's Revenge|2006-01-12|No|
 Tom and Jerry in "Duck and Cover"|2006-02-09|No|
 [SpongeBob SquarePants: Bikini Bottom in Bother](/games/denki/spongebob-bbb)|2006-02-16|Yes|
@@ -65,13 +65,13 @@ Jumble Fever Scooby-Doo|2006-03-16|No|
 Jumble Fever Easter|2006-04-06|No|
 SpongeBob SquarePants: Krabby Patty Kidnap|2006-04-27|No|
 [Scooby-Doo Mysteries: The Case of the Creepy Cowboy](/games/denki/scooby-creepy-cowboy)|2006-05-11|Yes|
-Shrek: Double Trouble|2006-05-18|No|
+[Shrek: Double Trouble](/games/denki/shrek-double-trouble)|2006-05-18|Yes|
 Jumble Fever Tom and Jerry|2006-06-08|No|
 Jumble Football Fever|2006-06-08|No|
 SpongeBob SquarePants: The Flying Dutchman|2006-07-06|No|
 [Scooby Doo: Where are You in "Tomb it May Concern"](/games/denki/scooby-tomb)|2006-07-27|Yes|
 SpongeBob SquarePants: Save Our Sandy|2006-08-17|No|
-Shrek: Imperial Peril|2006-08-17|No|
+[Shrek: Imperial Peril](/games/denki/shrek-imperial-peril)|2006-08-17|Yes|
 Tom and Jerry in "Rickety House Mouse"|2006-10-05|No|
 Scooby-Doo Mysteries: The Case of the Frosty Snowman|2006-10-19|No|
 Jumble Fever Halloween|2006-10-19|No|

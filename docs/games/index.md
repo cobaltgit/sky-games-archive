@@ -54,7 +54,11 @@ Release date is in YYYY-MM-DD format
 [Scooby Doo: Where are You in "The Mystery of Eerie Isle"](/games/denki/scooby-eerie-isle)|2004-09-16|Unknown|
 [Scooby Doo: Where are You in "Tomb it May Concern"](/games/denki/scooby-tomb)|2006-07-27|Unknown|
 [Super Breakout](/games/denki/super-breakout)|2002-05-17|Unknown|
+[Shrek: Disarming Charming](/games/denki/shrek-disarming-charming)|2005-07-14|Unknown|
+[Shrek: Double Trouble](/games/denki/shrek-double-trouble)|2006-05-18|Unknown|
+[Shrek: Fairy Godmother's Revenge](/games/denki/shrek-fgm-revenge)|2005-12-15|Unknown|
 [Shrek: Fiona's Rescue](/games/denki/shrek-fiona-rescue)|2005-02-17|Unknown|
+[Shrek: Imperial Peril](/games/denki/shrek-imperial-peril)|2006-08-17|Unknown||Sky Active/Sky Games overlay is glitched
 [The Grim Adventures of Billy and Mandy](/games/denki/billy-and-mandy)|2006-03-09|Unknown|
 [Thunderbirds](/games/denki/thunderbirds)|2004-10-14|Unknown|
 [The Muppet Show: Backstage Rampage](/games/denki/muppets)|2007-12-13|Unknown|

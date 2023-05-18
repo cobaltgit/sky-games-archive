@@ -4,7 +4,7 @@ comments: true
 
 # Shrek the Third
 
-Shrek the Third...a game based on the eponymous film of the Shrek franchise released in 2007 by Denki
+Shrek the Third...a spinoff game of Denki's Shrek series based on the eponymous film and released in 2007.
 
 <a href="https://denki.co.uk/sky/shrekthird/app.html"><img src="/assets/img/menus/shrek-3-menu.jpg" style="float: right; width: 60%; padding-left: 64px"></a>
 
