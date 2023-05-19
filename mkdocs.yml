@@ -17,6 +17,8 @@ extra:
       link: https://denki.co.uk/sky/Discord.png
     - icon: fontawesome/brands/github
       link: https://github.com/cobaltgit/sky-games-restored
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@STBGames
 markdown_extensions:
   - admonition
   - pymdownx.details
