@@ -22,7 +22,7 @@ None of Minds-Eye's games have been preserved for online playability, however, t
 |[Tomb Raider: The Temple of Anubis](/games/mindseye/tomb-raider-anubis)|2004-??-??|
 |[Tomb Raider: The Temple of the Dead](/games/mindseye/tomb-raider-anubis)|Unreleased|
 
-See [virtuallara.net](https://www.virtuallara.com/tomb-raider-tv-games.html) for information on Minds-Eye's Tomb Raider games
+See [virtuallara.com](https://www.virtuallara.com/tomb-raider-tv-games.html) for information on Minds-Eye's Tomb Raider games
 
 Below is a list of games made by Minds-Eye before their acquisition by Disney, as of [February 9, 2005](https://web.archive.org/web/20050209215640/http://www.minds-eye.net/)
 
