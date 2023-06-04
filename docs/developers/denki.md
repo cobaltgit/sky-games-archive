@@ -26,7 +26,7 @@ Denki created games for the Sky Gamestar interactive service between 2001 and 20
 Word Crunch|2003-12-04|No|
 [Looney Tunes: Back in Action](/games/denki/lt-bia)|2004-02-12|Yes|
 Bips!|2004-02-12|No|
-[Letter Box](/games/denki/letter-box)|2004-03-18|Yes|
+[Letter Box](/games/denki/letterbox)|2004-03-18|Yes|
 [Tom and Jerry in "Mouse Party"](/games/denki/tj-mouse-party)|2004-05-06|Yes|
 Courage the Cowardly Dog in Le Quack Attack|2004-09-09|No|
 Courage the Cowardly Dog in Katz Komeback|2004-07-08|No|
