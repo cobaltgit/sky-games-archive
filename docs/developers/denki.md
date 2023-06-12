@@ -94,7 +94,7 @@ Jumble Fever SpongeBob SquarePants|2007-07-12|No|
 The Grim Adventures of Billy and Mandy: Hell's Hamsters|2007-09-06|No|
 [Tom and Jerry in "Dynamice"](/games/denki/tj-dynamice)|2007-09-13|Yes|
 LEGO Castle: The Sword of Virtue|2007-10-13|No|
-Ben 10: Vilgax Venom|2007-11-08|No|
+[Ben 10: Vilgax Venom](/games/denki/ben10-vilgax-venom)|2007-11-08|Yes|
 Jumble Fever Avatar|2007-11-22|No|
 Robotboy: Repair or Despair|2007-11-29|No|
 SpongeBob SquarePants: Snow Woes|2007-12-06|No|

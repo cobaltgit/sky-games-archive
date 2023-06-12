@@ -30,22 +30,23 @@ Release date is in YYYY-MM-DD format
 [Courage the Cowardly Dog in Katz Kidnap](/games/denki/courage-katz-kidnap)|2003-10-23|Yes|Some doors may render as invisible|
 [Darts](/games/denki/darts)|2003-12-04|Yes|
 [Hulk](/games/denki/hulk)|2003-08-14|Yes|
-[Looney Tunes: Back in Action](/games/denki/lt-bia)|2004-02-12|Yes|
+[Looney Tunes: Back in Action](/games/denki/lt-bia)|2004-02-12|Yes|Bugs does not do anything in the demo.|
 [Number Crunch](/games/denki/number-crunch)|2006-11-09|Yes|[The help section shows the terms and conditions for *Who Wants to be a Millionaire*](/assets/img/nc-terms.jpg)
 [Robotboy: Tag Team Trouble](/games/denki/robotboy-ttt)|2008-08-14|Yes|
 [SpongeBob SquarePants: Bikini Bottom in Bother](/games/denki/spongebob-bbb)|2006-02-16|Yes|
 [Shrek the Third](/games/denki/shrek-3)|2007-06-14|Yes|
 [Star Trek: The Next Generation: STRANDED](/games/denki/star-trek-tng)|2005-09-08|Yes|
 [Tetris](/games/denki/tetris)|2004-12-16|Yes|[Pausing and selecting the 'continue' option during the intro jingle subsequently will take you to the main menu rather than resuming the game](/assets/video/tetris-bug.webm)
-[Tom and Jerry in Mouse Party](/games/denki/tj-mouse-party)|2004-05-06|Yes|[Wrong music and sound effects](https://www.youtube.com/watch?v=KWhWNucRWHI)
+[Tom and Jerry in Mouse Party](/games/denki/tj-mouse-party)|2004-05-06|Yes|[Wrong sound effects](https://www.youtube.com/watch?v=KWhWNucRWHI)
 [All Grown Up: Confiscated Cards](/games/denki/all-grown-up)|2006-12-07|Unknown|Intro ceremony does not play properly|
+[Ben 10: Vilgax Venom](/games/denki/ben10-vilgax-venom)|2007-11-08|Unknown|
 [Bugz](/games/denki/bugz)|2007-06-21|Unknown|Selecting Help will crash the game|
 [Bust-a-Move](/games/denki/bust-a-move)|2002-10-11|Unknown|
 [Caterpillar Crunch](/games/denki/caterpillar)|2003-08-14|Unknown|Sound effects overlap with music|
 [Codename: Kids Next Door: Operation: T.E.E.N.A.G.E.R.](/games/denki/knd-teenager)|2006-04-06|Unknown|
 [Denki Blocks!](/games/denki/denki-blocks)|2001-08-31|Unknown|
 [Dexter's Laboratory: Dexter vs. Mandark](/games/denki/dexter-vs-mandark)|2005-03-24|Unknown|
-[Ed, Edd n Eddy: Night of the Living Ed](/games/denki/eee-night-of-living-ed)|2005-08-11|Unknown|Sound effects do not work|
+[Ed, Edd n Eddy: Night of the Living Ed](/games/denki/eee-night-of-living-ed)|2005-08-11|Unknown|
 [Foster's Home for Imaginary Friends: Tick Tock Terror](/games/denki/foster-ttt)|2005-04-14|Unknown
 [Genie's Cave](/games/denki/genies-cave)|2004-12-02|Unknown|
 [Kingpin Bowling](/games/denki/kingpin)|2007-02-08|Unknown|
@@ -53,7 +54,7 @@ Release date is in YYYY-MM-DD format
 [Scooby Doo Mysteries: The Case of the Creepy Cowboy](/games/denki/scooby-creepy-cowboy)|2006-05-11|Unknown|
 [Scooby Doo: Where are You in "The Mystery of Eerie Isle"](/games/denki/scooby-eerie-isle)|2004-09-16|Unknown|
 [Scooby Doo: Where are You in "Tomb it May Concern"](/games/denki/scooby-tomb)|2006-07-27|Unknown|
-[Super Breakout](/games/denki/super-breakout)|2002-05-17|Unknown|
+[Super Breakout](/games/denki/super-breakout)|2002-05-17|Unknown|Sounds and music play at the same time
 [Shrek: Disarming Charming](/games/denki/shrek-disarming-charming)|2005-07-14|Unknown|
 [Shrek: Double Trouble](/games/denki/shrek-double-trouble)|2006-05-18|Unknown|
 [Shrek: Fairy Godmother's Revenge](/games/denki/shrek-fgm-revenge)|2005-12-15|Unknown|
